@@ -1,0 +1,32 @@
+{
+    "id": {
+        "name": "id",
+        "label": "id",
+        "field": "id",
+        "align": "left",
+        "sortable": true
+    },
+    "name": {
+        "name": "name",
+        "label": "name",
+        "field": "name",
+        "align": "left",
+        "sortable": true
+    },
+    "email": {
+        "name": "email",
+        "label": "email",
+        "field": "email",
+        "align": "left",
+        "sortable": true
+    },
+    "avatar": {
+        "name": "avatar",
+        "label": "avatar",
+        "field": "profile.avatar",
+        "align": "center",
+        "sortable": false,
+        "interactive": true
+    }
+}
+

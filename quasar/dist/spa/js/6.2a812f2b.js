@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[6],{"1b42":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("q-page",{attrs:{padding:""}},[n._v("\n  analytics index\n")])},l=[],s={name:"AnalyticsIndex"},c=s,i=t("2877"),r=Object(i["a"])(c,a,l,!1,null,null,null);e["default"]=r.exports}}]);

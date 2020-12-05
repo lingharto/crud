@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[10],{dfac:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("q-page",{attrs:{padding:""}},[n._v("\n  settings index\n")])},s=[],i={name:"SettingsIndex"},c=i,l=t("2877"),r=Object(l["a"])(c,a,s,!1,null,null,null);e["default"]=r.exports}}]);
